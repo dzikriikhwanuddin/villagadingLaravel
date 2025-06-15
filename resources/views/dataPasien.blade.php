@@ -20,7 +20,7 @@
             <table id="dataPasienTable" class="table table-bordered table-striped">
                 <thead>
                     <tr>
-                        <th>No</th>
+                        <th>No1</th>
                         <th>Nama Pasien</th>
                         <th>Jenis Kelamin</th>
                         <th>Tanggal Lahir</th>
